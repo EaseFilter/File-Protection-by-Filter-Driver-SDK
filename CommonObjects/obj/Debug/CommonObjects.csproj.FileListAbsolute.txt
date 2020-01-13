@@ -1,0 +1,17 @@
+L:\GitHub\Release\CommonObjects.dll.config
+L:\GitHub\Release\CommonObjects.dll
+L:\GitHub\Release\CommonObjects.pdb
+L:\GitHub\File Protection\CommonObjects\obj\Debug\EaseFilter.CommonObjects.EventForm.resources
+L:\GitHub\File Protection\CommonObjects\obj\Debug\EaseFilter.CommonObjects.Form_AccessRights.resources
+L:\GitHub\File Protection\CommonObjects\obj\Debug\EaseFilter.CommonObjects.FilterRuleForm.resources
+L:\GitHub\File Protection\CommonObjects\obj\Debug\EaseFilter.CommonObjects.InputForm.resources
+L:\GitHub\File Protection\CommonObjects\obj\Debug\EaseFilter.CommonObjects.ControlFilterRuleSettigs.resources
+L:\GitHub\File Protection\CommonObjects\obj\Debug\EaseFilter.CommonObjects.OptionForm.resources
+L:\GitHub\File Protection\CommonObjects\obj\Debug\EaseFilter.CommonObjects.Properties.Resources.resources
+L:\GitHub\File Protection\CommonObjects\obj\Debug\EaseFilter.CommonObjects.SettingsForm.resources
+L:\GitHub\File Protection\CommonObjects\obj\Debug\CommonObjects.csproj.GenerateResource.cache
+L:\GitHub\File Protection\CommonObjects\obj\Debug\CommonObjects.dll
+L:\GitHub\File Protection\CommonObjects\obj\Debug\CommonObjects.pdb
+L:\GitHub\File Protection\output\CommonObjects.dll.config
+L:\GitHub\File Protection\output\CommonObjects.dll
+L:\GitHub\File Protection\output\CommonObjects.pdb
